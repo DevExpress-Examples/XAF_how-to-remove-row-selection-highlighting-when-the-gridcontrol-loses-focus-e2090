@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[GridClearRowSelectionAppearanceViewController.cs](./CS/WinSolution.Module.Win/GridClearRowSelectionAppearanceViewController.cs) (VB: [GridClearRowSelectionAppearanceViewController.vb](./VB/WinSolution.Module.Win/GridClearRowSelectionAppearanceViewController.vb))**
+<!-- default file list end -->
 # How to remove row selection highlighting when the GridControl loses focus
 
 
